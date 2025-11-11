@@ -34,7 +34,7 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer:<br>
 
 </details>
 
-### [Ders 2: SQL Temelleri](Link) - [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
+### [Ders 2: SQL Temelleri](https://www.youtube.com/watch?v=vDZyhK81oMY) - [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
 <details>
 <summary>Click to expand!</summary>
 
